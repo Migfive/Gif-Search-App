@@ -22,7 +22,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/Migfive/gif-search-app.git
+   https://github.com/Migfive/Gif-Serach-App.git
    ```
 2. Dirígete a la carpeta del proyecto:
    ```bash
